@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dc581fed.chunk.css",
-    "main.js": "/portfolio/static/js/main.e8df2d3c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e8df2d3c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f6f718ae.chunk.css",
+    "main.js": "/portfolio/static/js/main.3e90857b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3e90857b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a433b352.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a433b352.js.map",
     "static/js/2.765731f2.chunk.js": "/portfolio/static/js/2.765731f2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5af73f49.chunk.js": "/portfolio/static/js/3.5af73f49.chunk.js",
     "static/js/3.5af73f49.chunk.js.map": "/portfolio/static/js/3.5af73f49.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.dc581fed.chunk.css.map": "/portfolio/static/css/main.dc581fed.chunk.css.map",
+    "static/css/main.f6f718ae.chunk.css.map": "/portfolio/static/css/main.f6f718ae.chunk.css.map",
     "static/js/2.765731f2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.765731f2.chunk.js.LICENSE.txt",
     "static/media/Algoritmer.33859f9a.PNG": "/portfolio/static/media/Algoritmer.33859f9a.PNG",
     "static/media/Budget.36c3ebb4.PNG": "/portfolio/static/media/Budget.36c3ebb4.PNG",
@@ -18,7 +18,7 @@
     "static/media/Lege.bb5afa03.PNG": "/portfolio/static/media/Lege.bb5afa03.PNG",
     "static/media/Matboksen.4a05a9e8.PNG": "/portfolio/static/media/Matboksen.4a05a9e8.PNG",
     "static/media/MineSweeper.aab5a1cf.PNG": "/portfolio/static/media/MineSweeper.aab5a1cf.PNG",
-    "static/media/App.css": "/portfolio/static/media/PortfolioPicture.d3c60ff7.jpg",
+    "static/media/PortfolioPicture.d3c60ff7.jpg": "/portfolio/static/media/PortfolioPicture.d3c60ff7.jpg",
     "static/media/Psql.dd706f54.PNG": "/portfolio/static/media/Psql.dd706f54.PNG",
     "static/media/cvBackground.10117e26.jpg": "/portfolio/static/media/cvBackground.10117e26.jpg",
     "static/media/snek.255384eb.PNG": "/portfolio/static/media/snek.255384eb.PNG"
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.a433b352.js",
     "static/js/2.765731f2.chunk.js",
-    "static/css/main.dc581fed.chunk.css",
-    "static/js/main.e8df2d3c.chunk.js"
+    "static/css/main.f6f718ae.chunk.css",
+    "static/js/main.3e90857b.chunk.js"
   ]
 }
